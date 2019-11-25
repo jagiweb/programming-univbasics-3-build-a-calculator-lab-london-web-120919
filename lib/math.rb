@@ -25,4 +25,5 @@ end
 
 def square_root(num)
   square = num**
+  square
 end
